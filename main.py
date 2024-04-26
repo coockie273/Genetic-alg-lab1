@@ -1,6 +1,3 @@
-import math
-import matplotlib.pyplot as plt
-import multiprocessing
 from Population import Population
 
 
