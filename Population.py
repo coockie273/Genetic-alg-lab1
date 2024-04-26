@@ -1,7 +1,7 @@
 import random
 
 
-class Population:
+class ExtremumFinder:
 
     def __init__(self, power, iteration, p_kross, p_mut, function):
         self.population = []
